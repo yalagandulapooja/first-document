@@ -1,0 +1,13 @@
+.h1 {
+    font-size: 50px;
+}
+input {
+    margin-bottom: 15px;
+    width: 100%;
+}
+form {
+    background-color: aqua;
+    width: 250px;
+    padding: 20px;
+    margin: auto;
+}

@@ -1,0 +1,28 @@
+{
+  "Nbatch": [
+    {
+      "id": "1001",
+      "cname": "python full stack",
+      "trainer": "chndra shekar",
+      "date": "2024-08-04",
+      "time": "18:00",
+      "duration": "6 months"
+    },
+    {
+      "id": "1002",
+      "cname": "UI developer",
+      "trainer": "chndra shekar",
+      "date": "2024-08-09",
+      "time": "05:30",
+      "duration": "6 months"
+    },
+    {
+      "id": "1003",
+      "cname": "UI developer",
+      "trainer": "chndra shekar",
+      "date": "2024-08-21",
+      "time": "19:45",
+      "duration": "6 months"
+    }
+  ]
+}
